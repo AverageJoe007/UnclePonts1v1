@@ -31,14 +31,14 @@ and itemization to achieve greater success in game.
 ```
 Data bound v-select from API CALL.  JSON from the call showing as a validation test.
 ```
-![Rest call working](https://github.com/AverageJoe007/lol_1v1me/blob/master/src/assets/RESTAPICall.PNG)
+![Rest call working](https://github.com/AverageJoe007/UnclePonts1v1/blob/master/src/assets/RESTAPICall.PNG)
 
 ```
 Early validation test of element (with v-if) and JSOM object in console.log()
 ```
-![data with v-if](https://github.com/AverageJoe007/lol_1v1me/blob/master/src/assets/v-ifeffect.PNG)
+![data with v-if](https://github.com/AverageJoe007/UnclePonts1v1/blob/master/src/assets/v-ifeffect.PNG)
 
 ```
 Stats iterate by level
 ```
-![stats adjusted for leve](https://github.com/AverageJoe007/lol_1v1me/blob/master/src/assets/stats-iteration.PNG)
+![stats adjusted for leve](https://github.com/AverageJoe007/UnclePonts1v1/blob/master/src/assets/stats-iteration.PNG)
